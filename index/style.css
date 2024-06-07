@@ -188,7 +188,7 @@ ul ul,ol ul,ul ol,ol ol {
 	float:right;
 	width:115px;
 	height:115px;
-	margin-top:15px;
+	margin-top:-115px;
 	opacity:0.5
 }
 .article-header:hover #qrCode {
